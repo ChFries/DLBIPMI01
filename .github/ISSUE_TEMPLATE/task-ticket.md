@@ -4,6 +4,7 @@ about: Standardtemplate für Tasks
 title: ''
 labels: ''
 assignees: ''
+projects: ["ChFries/4"]
 
 ---
 
