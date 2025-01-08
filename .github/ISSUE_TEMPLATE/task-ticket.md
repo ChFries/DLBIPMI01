@@ -1,8 +1,8 @@
 ---
-name: Fachlich/Prozess
-about: Task für fachliche Story
+name: Task-Ticket
+about: Standardtemplate für Tasks
 title: ''
-labels: prozess
+labels: ''
 assignees: ''
 
 ---
@@ -19,3 +19,12 @@ assignees: ''
  
 - [ ] Sämtliche Akzeptanzkriterien wurden umgesetzt
 - [ ] Entstandene Artefakte wurden in GitHub committed
+
+## Abgrenzung
+
+*Abgrenzung zu anderen Tickets? - wenn ja verlinken*
+
+## Defintion of Ready
+
+- [ ] Ticket wurde dem entsprechend Feld nach gelabelt
+- [ ] Ticket wurde nach MoSCoW gelabelt
