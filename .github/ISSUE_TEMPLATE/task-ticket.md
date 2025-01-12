@@ -5,7 +5,6 @@ title: ''
 labels: ''
 assignees: ''
 
-
 ---
 
 ## Userstory
@@ -20,6 +19,10 @@ assignees: ''
  
 - [ ] Sämtliche Akzeptanzkriterien wurden umgesetzt
 - [ ] Entstandene Artefakte wurden in GitHub committed
+
+## Abhängigkeiten
+
+*Abhängigkeiten zu anderen Stories/Tasks werden hier festgehalten*
 
 ## Abgrenzung
 
